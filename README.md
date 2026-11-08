@@ -9,13 +9,13 @@ I've spent 10 years in measurement and analytics, six in the UK and four in Spai
 - **Measurement at scale.** I've written tracking plans, event taxonomies and dataLayer specs, and owned GTM implementations across 60 brands.
 - **Data governance and privacy.** I migrated a consent management platform across 100+ websites in every region, including China, and built data quality frameworks under GDPR and CCPA.
 - **Applied AI.** I classify customer feedback with LLMs and co-founded an AI SaaS built on Vertex AI.
-- **Enablement.** At JD Sports, analytics adoption grew 70% year on year through training programmes. I'm a certified train-the-trainer.
+- **Enablement.** At JD Sports, new analytics requests grew 70% year on year, with training programmes alongside each delivery. I'm a certified train-the-trainer.
 
 **Featured repositories**
 
 | Repository | What it shows |
 |---|---|
-| [advanced-sql-healthcare-analytics](https://github.com/MariaSLopezOller/advanced-sql-healthcare-analytics) | Fourteen questions about a fictional clinic answered with dbt + DuckDB models, 50 tests and a data quality scorecard, on synthetic data with defects planted on purpose |
+| [advanced-sql-healthcare-analytics](https://github.com/MariaSLopezOller/advanced-sql-healthcare-analytics) | Fourteen questions about a fictional clinic answered with dbt + DuckDB models, 50 tests and a data quality scorecard, on synthetic data with defects planted on purpose. Built with Claude Code |
 | [Marketing-Analytics](https://github.com/MariaSLopezOller/Marketing-Analytics) | Ecommerce funnel, conversion, AOV, CLV and ROAS from GA4 data in BigQuery (SQL and Python) |
 | [AB-testing-with-python-and-SQL-musclehub](https://github.com/MariaSLopezOller/AB-testing-with-python-and-SQL-musclehub) | An end-to-end A/B test: SQL for descriptive analysis, chi-square significance testing in Python, and an insights presentation |
 | [Customer_analytics_RFM](https://github.com/MariaSLopezOller/Customer_analytics_RFM) | RFM segmentation, plus customer lifetime value calculation and forecasting |
@@ -23,6 +23,6 @@ I've spent 10 years in measurement and analytics, six in the UK and four in Spai
 
 **Stack:** SQL · Python · BigQuery · GCP · Vertex AI · GA4 · GTM · Looker · Tableau · Power BI · Databricks
 
-**Find me:** [CV](https://mariaslopezoller.github.io) · [LinkedIn](https://linkedin.com/in/mariaslopezoller) · [Portfolio](https://bit.ly/PortfolioMariaLopezOller)
+**Find me:** [CV](https://mariaslopezoller.github.io) · [LinkedIn](https://linkedin.com/in/mariaslopezoller) · [Portfolio](https://mariaslopezoller.github.io/portfolio/)
 
 Based in Spain · Open to remote roles across Europe · EU passport · UK Settled Status
