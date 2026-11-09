@@ -15,7 +15,7 @@ I've spent 10 years in measurement and analytics, six in the UK and four in Spai
 
 | Repository | What it shows |
 |---|---|
-| [advanced-sql-healthcare-analytics](https://github.com/MariaSLopezOller/advanced-sql-healthcare-analytics) | Fourteen questions about a fictional clinic answered with dbt + DuckDB models, 50 tests and a data quality scorecard, on synthetic data with defects planted on purpose. Built with Claude Code |
+| [advanced-sql-healthcare-analytics](https://github.com/MariaSLopezOller/advanced-sql-healthcare-analytics) | Fourteen questions about a fictional clinic answered with dbt + DuckDB models, 50 tests and a data quality scorecard, on synthetic data with defects planted on purpose. |
 | [Marketing-Analytics](https://github.com/MariaSLopezOller/Marketing-Analytics) | Ecommerce funnel, conversion, AOV, CLV and ROAS from GA4 data in BigQuery (SQL and Python) |
 | [AB-testing-with-python-and-SQL-musclehub](https://github.com/MariaSLopezOller/AB-testing-with-python-and-SQL-musclehub) | An end-to-end A/B test: SQL for descriptive analysis, chi-square significance testing in Python, and an insights presentation |
 | [Customer_analytics_RFM](https://github.com/MariaSLopezOller/Customer_analytics_RFM) | RFM segmentation, plus customer lifetime value calculation and forecasting |
